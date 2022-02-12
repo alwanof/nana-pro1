@@ -1,1 +1,1 @@
-alert('hi lol cool');
+alert('hi lol cool fool');
